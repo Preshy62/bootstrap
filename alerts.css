@@ -1,0 +1,45 @@
+.flex{
+
+display: flex;
+padding: 10px;
+gap: 1;
+
+}
+
+.pot{
+
+    margin-right: 20px;
+
+}
+
+.play{
+
+    display: flex;
+    padding: 10px;
+    /* gap: 1; */
+    
+
+}
+
+.flex2{
+
+    display: flex;
+    /* padding: 8px; */
+
+    justify-content: end;
+
+}
+
+    
+
+
+
+.pla{
+
+    display: flex;
+    /* padding: 10px; */
+    
+    justify-content: end;
+
+}
+
