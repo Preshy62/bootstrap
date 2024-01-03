@@ -1,0 +1,39 @@
+
+
+.col-sm-6 h1{
+
+font-size: 60px;
+
+}
+
+.card-img-top{
+
+    margin-top: -16px;
+    margin-left: 1px !important;
+    box-shadow: 4px 3px 3px 2px gray;
+    
+    }
+
+.contact{
+
+width: 100%;
+align-items: center;
+
+}
+
+.trans{
+
+    transition: all 0.5s ease-in-out;
+    box-shadow: 2px 2px 2px 1px violet;
+    cursor: pointer;
+    
+    }
+    
+    .trans:hover{
+    
+    transform: translate(-5px);
+    
+    }
+
+
+}
